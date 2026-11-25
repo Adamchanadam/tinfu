@@ -1,0 +1,4 @@
+# Codex 專用：同 SKILL.md 嘅 disable-model-invocation（Claude Code）一樣，唔畀 AI 自己決定叫用更新技能；
+# 用家輸入 $tinfu:update 先會行。欄位跟 openai/codex rust-v0.170.0 codex-rs/skills/src/metadata.rs（policy.allow_implicit_invocation）。
+policy:
+  allow_implicit_invocation: false
