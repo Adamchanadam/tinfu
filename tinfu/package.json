@@ -1,6 +1,6 @@
 {
   "name": "ziwei-claude-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "天賦（Tinfu）：本地紫微斗數 Claude Code 插件：真太陽時、廣東話同台灣華語問答、對吓舊事、今年同未來幾年、本機記憶、本機計數嘅捐款提示。",
   "license": "UNLICENSED",
