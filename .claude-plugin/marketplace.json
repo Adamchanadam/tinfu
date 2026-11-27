@@ -1,6 +1,6 @@
 {
   "name": "tinfu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "天賦（Tinfu）紫微斗數插件",
   "owner": {
     "name": "Adam Chan"
@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "tinfu",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "source": "./tinfu"
     }
   ]
